@@ -2,6 +2,11 @@
 
 A modern web application for exploring and discovering Pokémon. Built with React and Vite.
 
+## Preview
+
+![preview](https://github.com/user-attachments/assets/be5e5b6f-57d2-4c0c-b65b-461b65c18388)
+
+
 ## Features
 
 - Browse through 150 Pokémon
